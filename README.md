@@ -2,6 +2,8 @@
 
 Enables the use of the Right Analog Stick to control the vehicle's camera view while driving around O'ahu.
 
+![Right Analog Stick Image](https://github.com/christorrella/TDU-PSP-Right-Analog-Stick/blob/main/RightAnalogStick.png?raw=true)
+
 # Compatibility
 
 Currently this cheat is only compatible with the USA region version of the game (ULUS10249). 
